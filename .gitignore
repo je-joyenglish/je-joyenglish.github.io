@@ -3,6 +3,13 @@
 .sass-cache
 .jekyll-cache
 _site
+<<<<<<< HEAD
 Gemfile.lock
 unused
 bootstrap-reference.html
+=======
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> parent of 8f75b83 (테마 설정)
